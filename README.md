@@ -17,9 +17,6 @@ Bankist is a fictional banking web application designed to showcase modern UI an
 - **Frontend:** HTML, CSS, JavaScript (ES6+)  
 - **Libraries Used:** None (pure JavaScript)  
 
-## Screenshots
-![Bankist Screenshot](https://your-image-link.com/image.png)  
-
 ## Installation
 To run this project locally, follow these steps:  
 
