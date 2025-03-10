@@ -7,7 +7,9 @@ Bankist is a fictional banking web application designed to showcase modern UI an
 🔗 **[View Bankist Live](https://zahnx.github.io/bankist/)**  
 
 ## Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (ES6+)
+- HTML
+- CSS
+- JavaScript (ES6+)
 
 ## Installation
 To run this project locally, follow these steps:  
